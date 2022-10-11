@@ -1,0 +1,2 @@
+class = blueprint
+object -> real time entity, state and behavior combination
